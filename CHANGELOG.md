@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.5] - 20220
+### Added
+- Added angular component generation to stencil build pipeline
+- Components have been generated and published at @trimble-oss/modus-angular-components
+
 ## [0.1.4] - 2022-14-03
 ### Added
 - Added show-shadow property to modus nav-bar.
